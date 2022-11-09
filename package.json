@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "name": "pbbbl/gridsome-source-strapi",
+  "version": "0.3.0",
+  "name": "gridsome-source-strapi",
   "description": "Fork of Strapi source for Gridsome",
   "homepage": "https://github.com/pbbbl/gridsome-source-strapi/tree/main",
   "repository": "https://github.com/pbbbl/gridsome-source-strapi",
